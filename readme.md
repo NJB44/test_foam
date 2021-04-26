@@ -7,4 +7,4 @@
 ## Main Page:
 https://njb44.github.io/test_foam/
 
-For an entrance point go to [[database]]
+For an entrance point go to: https://njb44.github.io/test_foam/docs/class-notes/database
