@@ -1,0 +1,4 @@
+#Databases
+#2711
+
+Normalization describes specific methods used to decrease data redundancy across tables in a database. Normalization is the process of modifying a database to comply with one of the set of [[Normal_Forms]].

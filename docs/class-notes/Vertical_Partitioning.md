@@ -1,0 +1,7 @@
+#Databases
+#2711
+
+Vertical partitioning is a style of [[partitions]] which splits columns out of a table by taking a set of tables and turning them into a larger set of tables. This term covers the sorts of practices employed in database [[Normalization]]. It is however broader than database normalization in that it 
+
+
+This is in contrast to another form of partitioning: [[Horizontal_Partitioning]] [[test]]
